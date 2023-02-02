@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintRecents"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:onClick="onClickPersonalRecord"
+    android:orientation="vertical"
+    android:textAlignment="textEnd"
+    tools:context=".RecentSavesActivity">
+
+    <TextView
+        android:id="@+id/txtTitleRecents"
+        android:layout_width="418dp"
+        android:layout_height="58dp"
+        android:background="#151515"
+        android:text="Recent runs"
+        android:textAlignment="textStart"
+        android:textColor="@color/white"
+        android:textIsSelectable="false"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="414dp"
+        android:layout_height="498dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.304"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.269"
+        tools:layout_conversion_absoluteHeight="568dp"
+        tools:layout_conversion_absoluteWidth="416dp">
+
+    </ListView>
+
+    <Button
+        android:id="@+id/btnPersonalRecord"
+        android:layout_width="180dp"
+        android:layout_height="43dp"
+        android:background="@color/teal_700"
+        android:onClick="onClickPersonalRecord"
+        android:text="Personal Record"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.946"
+        tools:layout_conversion_absoluteHeight="48dp"
+        tools:layout_conversion_absoluteWidth="416dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
