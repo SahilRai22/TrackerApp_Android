@@ -1,9 +1,8 @@
 # Mobile-Dev
 Android app to monitor movement and log their journeys
 
-<p align="center" >
 ![Screenshot 2023-02-02 at 01 29 58](https://user-images.githubusercontent.com/4998533/216214258-86302d4e-420c-463a-8941-5986299b3a54.png)
-</p>
+
 
 <p align="center" >
 ![Screenshot 2023-02-02 at 01 31 31](https://user-images.githubusercontent.com/4998533/216214322-e1ea3788-0644-4a3f-86cf-54208358c6dd.png)
