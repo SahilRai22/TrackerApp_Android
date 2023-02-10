@@ -21,7 +21,7 @@ Home Screen            |  Track Activity
 
 Edit Screen           |  Previous run view list
 :-------------------------:|:-------------------------:
-![Screenshot 2023-02-02 at 01 32 17](https://user-images.githubusercontent.com/4998533/216214359-78cb886f-91fe-4c8d-9071-6180e8b814a9.png)  |  !![Screenshot 2023-02-02 at 01 32 27](https://user-images.githubusercontent.com/4998533/216214380-d7a777d8-3e5a-497a-9dc0-6419d2b7db9c.png)
+![Screenshot 2023-02-02 at 01 32 17](https://user-images.githubusercontent.com/4998533/216214359-78cb886f-91fe-4c8d-9071-6180e8b814a9.png)  |  ![Screenshot 2023-02-02 at 01 32 27](https://user-images.githubusercontent.com/4998533/216214380-d7a777d8-3e5a-497a-9dc0-6419d2b7db9c.png)
 
 Personal Record       |
 :-------------------------:
