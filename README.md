@@ -1,5 +1,5 @@
 # Android Development
-Android ogging app which loggs the change in physical location using GPS.
+Android jogging app which loggs the change in physical location using GPS.
 
 > Tested on an emulated device (1080 x 1920 420dpi) running Android API version 29 (Android 10.0)
 
