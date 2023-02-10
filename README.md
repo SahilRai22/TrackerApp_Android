@@ -1,5 +1,16 @@
-# Mobile-Dev
-Android app to monitor movement and log their journeys
+# Android Development
+Android ogging app which loggs the change in physical location using GPS.
+
+> Tested on an emulated device (1080 x 1920 420dpi) running Android API version 29 (Android 10.0)
+
+## Requirements 
+• Logging the movement of a user when they go running or walking
+• Saving the movement data in an appropriate manner
+• Allowing the user to inspect their data in an appropriate manner
+• Allowing the user to annotate their data in a useful manner
+• In principle allowing other applications to make use of the data
+
+## SnapShots 
 
 ![Screenshot 2023-02-02 at 01 29 58](https://user-images.githubusercontent.com/4998533/216214258-86302d4e-420c-463a-8941-5986299b3a54.png)
 
