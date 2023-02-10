@@ -5,9 +5,13 @@ Android ogging app which loggs the change in physical location using GPS.
 
 ## Requirements 
 • Logging the movement of a user when they go running or walking.
+
 • Saving the movement data in an appropriate manner.
+
 • Allowing the user to inspect their data in an appropriate manner.
+
 • Allowing the user to annotate their data in a useful manner.
+
 • In principle allowing other applications to make use of the data.
 
 ## SnapShots 
